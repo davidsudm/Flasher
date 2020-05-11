@@ -1,0 +1,2 @@
+X pos. Y pos. Dark current Dark current STD Dark time Current Current STD Time
+0.000 0.000 1.317179E-9 1.157471E-12 06/09/2019 17:17:02 1.318549E-9 5.961444E-13 06/09/2019 17:18:24
